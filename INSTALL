@@ -1,0 +1,9 @@
+Building MyKingCoin
+
+See doc/readme-qt.rst for instructions on building MyKingCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MyKingCoin.
+
+See doc/build-*.txt for instructions on building mykingcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MyKingCoin.
